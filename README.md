@@ -1,5 +1,5 @@
 # Linear Algebra Calculator
-
+!Run vector_app.py for the application!
 A polished desktop application (Tkinter + Matplotlib) that turns abstract linear-algebra operations into living geometry.
 
 Watch vectors grow, stretch, rotate and project in real time while the full algebraic working is written out step-by-step and the exact same calculation is shown as runnable Python code.
